@@ -1,0 +1,35 @@
+.main{
+    background-color: rgb(241, 234, 234);
+}
+.boss{
+    border: 2px; 
+    width: 65%;
+    margin: 50px;
+    position: absolute;
+    right: 170px;
+    background-color: white;
+    border-radius: 1cm;
+    padding: 20px;
+}
+.aa{
+    color: blue;
+}
+.bb{
+    color: blue;
+}
+.useless{
+    color: red;
+}
+.useless2{
+    color: red;
+}
+.useless3{
+    color: red;
+}
+.rr
+{
+    color: rgb(48, 48, 189);
+}
+.ee{
+    
+}
