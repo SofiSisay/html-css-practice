@@ -1,15 +1,65 @@
+.kingkong{
+    background-color: rgb(173, 160, 160);
+}
 .king{
-    border: solid;
+    border: solid rgb(206, 181, 181);
+    width: fit-content;
+    border-radius: 1cm;
+    background-color: rgb(245, 232, 232);
+    position: absolute;
+    top: 50px;
+    right: 370px;
+    padding: 20px;
 }
 .A{
     font-size: 30px;
     font-weight: bold;
-    border-bottom: solid;
+    border-bottom:solid grey;
     padding-bottom: 13px;
+    padding-bottom: 20px;
+    
 }
 .B{
-    border-bottom: solid;
+    border-bottom:solid grey;
+    padding-bottom: 13px;
     
+}
+.C{
+   
+    padding-top: 10px;
+    font-size: small;
+}
+.w{
+    padding-left: 20px;
+    padding-top: 1px;
+    width: fit-content;
+}
+.x{
+    
+    font-size: small;
+}
+.y{
+   
+    font-size: small;
+}
+.z{
+    
+    font-size: small;
+}
+.D{
+    border-bottom: solid grey;
+    padding-bottom: 30px;
+    font-size: medium;
+    color: grey;
+}
+.come{
+    border: solid;
+    height: 35px;
+    text-align: center;
+    border-color: blue;
+    background-color: blue;
+    font-weight: bolder;
+    color: white;
 }
 .a{
     color: blue;
@@ -25,4 +75,9 @@
 }
 .e{
     color: red;
+}
+.damn{
+    font-size: medium;
+    color: grey;
+    
 }

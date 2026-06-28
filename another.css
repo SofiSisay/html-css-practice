@@ -1,0 +1,31 @@
+.aa{
+    width: fit-content;
+    color: white;
+    background-color: red;
+    height: fit-content;
+    font-size: larger;
+    font-weight: bolder;
+    max-width: fit-content;
+    padding-bottom: 5px;
+    text-align: center;
+}
+.bb{
+    margin-top: 100px;
+    padding-top: 150px;
+    text-align: center;
+}
+.ff{
+    border: solid blue;
+    background-color: red;
+    margin-left:  50px;
+    text-align: center;
+}
+.huge{
+    width: 20cm;
+    height: 10cm;
+    margin-top: 3cm;
+    margin-left: 6cm;
+    margin-bottom: 2cm;
+    margin-right: 4cm;
+    border-radius: 3px;
+}

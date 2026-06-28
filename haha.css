@@ -1,0 +1,183 @@
+.A{
+    background-color: rgb(61, 59, 59);
+}
+.a{
+    color: white;
+    margin-left: 3cm;
+    margin-top: 1cm;
+}
+.b{
+    font-size: medium;
+    color: white;
+    position: absolute;
+    top: 0.5cm;
+    right: 4cm;
+    word-spacing: 15px;
+}
+.c{
+    color: white;
+    font-size: 75px;
+    margin-left: 2.5cm;
+    margin-top: 6cm;
+}
+.B{
+    border: solid rgb(124, 98, 33);
+    width: 15cm;
+    height: 12cm;
+    position: absolute;
+    top: 4cm;
+    right: 2cm;
+    padding-left: 20px;
+}
+.toji{
+    width: 10cm;
+    height: 7cm;
+}
+.bluff{
+    color: antiquewhite;
+    width: 11cm;
+    height: 8cm;
+    position: absolute;
+    top: 10cm;
+    margin-left: 3cm;
+    margin-bottom: 10px;
+}
+.d{
+    color: white;
+    border-bottom: solid rgb(124, 98, 33);
+    padding-bottom: 10px;
+}
+.ss{
+    color: white;
+}
+.fo{
+    color: white;
+}
+.wtf{
+    color: white;
+    border: solid;
+    width: 4cm;
+    height: 35px;
+    margin-left: 3cm;
+    text-align: center;
+    background-color: green;
+}
+.fuc{
+    border-radius: 70px;
+    position: absolute;
+    top: 3cm;
+    right: 25cm;
+    width: 4cm;
+    height: 4cm;
+}
+.bs{
+    color: white;
+    position: absolute;
+    top: 12cm;
+    right: 23cm;
+}
+.hh{
+    color: white;
+    position: absolute;
+    top: 18cm;
+    margin-left: 3cm;
+}
+.jjk{
+    position: absolute;
+    top: 20cm;
+    right: ;
+    margin-left: 3cm;
+    width: 13cm;
+    height: 8cm;
+}
+.freiren{
+    width: 13cm;
+    height: 8cm;
+    position: absolute;
+    top: 20cm;
+    right: 3cm;
+}
+.dumb{
+    margin-left: 3cm;
+    position: absolute;
+    top: 28cm;
+    width: 13cm;
+    color: white;
+}
+.dude{
+    position: absolute;
+    top: 28cm;
+    right: 3cm;
+    color: white;
+    width: 13cm;
+}
+.aot{
+    position: absolute;
+    top: 30cm;
+    margin-left: 3cm;
+    width: 15cm;
+    height: 8cm;
+}
+.goat{
+    position: absolute;
+    top: 38cm;
+    margin-left: 3cm;
+    color: white;
+}
+.demon{
+    position: absolute;
+    top: 30cm;
+    right: 3cm;
+    margin-left: 3cm;
+    width: 13cm;
+    height: 8cm;
+}
+.p{
+    color: white;
+    position: absolute;
+    top: 40cm;
+    right: 17cm;
+}
+.t{
+    color: white;
+    position: absolute;
+    top: 42cm;
+    margin-left: 3cm;
+}
+.come{
+    color: white;
+    position: absolute;
+    top: 43cm;
+    margin-left: 3cm;
+    font-size: 35px;
+    margin-top: 10px;
+    width: 19cm;
+}
+.long{
+    color: white;
+    position: absolute;
+    top: 46cm;
+    margin-left: 3cm;
+    width: 19cm;
+}
+.stop{
+    color: white;
+    position: absolute;
+    top: 48.5cm;
+    margin-left: 3cm;
+    width: 19cm;
+}
+.tech{
+    color: white;
+    position: absolute;
+    top: 51cm;
+    margin-left: 3cm;
+    font-size: small;
+}
+.react{
+    color: white;
+    position: absolute;
+    top: 51cm;
+    margin-left: 3cm;
+    font-size: small;
+}
